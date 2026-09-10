@@ -1,6 +1,6 @@
 # Hi, I'm Inioluwa Idowu 👋
 **Data Analyst | Supply Chain, Logistics & Operations Analytics**
-📍 Lagos, Nigeria | [LinkedIn Profile](https://www.linkedin.com/in/inioluwa-idowu-a083a1396) | [Email Contact](mailto:ia.idowu007@gmail.com)
+📍 Lagos, Nigeria | [LinkedIn Profile](https://www.linkedin.com/in/inioluwa-idowu-a083a1396) | [Email Contact](mailto:ia.idowu007@gmail.com) (ia.idowu007@gmail.com)
 
 **Executive Summary**
 Data Analyst specializing in supply chain efficiency, fleet operations, and cost optimization. Skilled in leveraging SQL, Python, Power BI, and Excel to convert complex operational logs into actionable executive dashboards and measurable cost reductions.
